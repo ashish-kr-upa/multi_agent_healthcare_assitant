@@ -1,0 +1,41 @@
+{
+  "order_id": "MOCKORD-5837",
+  "items": [
+    {
+      "sku": "OTC004",
+      "match": {
+        "pharmacy_id": "ph002",
+        "pharmacy_name": "HealthHub Bandra",
+        "items": [
+          {
+            "sku": "OTC004",
+            "qty": 1,
+            "price": 25.0
+          }
+        ],
+        "eta_min": 49,
+        "delivery_fee": 25,
+        "distance_km": 7.85,
+        "reserved": true
+      }
+    },
+    {
+      "sku": "OTC005",
+      "match": {
+        "pharmacy_id": "ph003",
+        "pharmacy_name": "CityCare VileParle",
+        "items": [
+          {
+            "sku": "OTC005",
+            "qty": 1,
+            "price": 75.0
+          }
+        ],
+        "eta_min": 25,
+        "delivery_fee": 25,
+        "distance_km": 3.06,
+        "reserved": true
+      }
+    }
+  ]
+}
