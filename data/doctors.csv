@@ -1,0 +1,3 @@
+doctor_id,name,specialty,tele_slot_iso8601
+doc001,Dr. A Chopra,General,2025-10-01T09:00:00
+doc002,Dr. S Patel,Chest,2025-10-01T11:00:00

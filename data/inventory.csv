@@ -1,0 +1,6 @@
+pharmacy_id,sku,drug_name,form,strength,price,qty
+ph001,OTC001,Paracetamol,tab,500mg,35,50
+ph001,OTC002,Dextromethorphan,syrop,10mg/5ml,120,20
+ph002,OTC003,ThroatLozenge,lozenge,---,45,40
+ph002,OTC004,ORS Solution,sachet,---,25,30
+ph003,OTC005,Multivitamin,tab,---,75,20

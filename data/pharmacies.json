@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ph001",
+    "name": "MedQuick Andheri",
+    "lat": 19.12,
+    "lon": 72.84,
+    "services": [
+      "24x7",
+      "delivery"
+    ],
+    "delivery_km": 12
+  },
+  {
+    "id": "ph002",
+    "name": "HealthHub Bandra",
+    "lat": 19.05,
+    "lon": 72.83,
+    "services": [
+      "delivery"
+    ],
+    "delivery_km": 8
+  },
+  {
+    "id": "ph003",
+    "name": "CityCare VileParle",
+    "lat": 19.1,
+    "lon": 72.86,
+    "services": [
+      "delivery"
+    ],
+    "delivery_km": 10
+  }
+]

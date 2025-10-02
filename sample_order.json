@@ -1,0 +1,23 @@
+{
+  "order_id": "MOCKORD-1234",
+  "items": [
+    {
+      "sku": "OTC001",
+      "match": {
+        "pharmacy_id": "ph001",
+        "pharmacy_name": "MedQuick Andheri",
+        "items": [
+          {
+            "sku": "OTC001",
+            "qty": 1,
+            "price": 35
+          }
+        ],
+        "eta_min": 25,
+        "delivery_fee": 25,
+        "distance_km": 1.2,
+        "reserved": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+
+# Core Web App
+streamlit==1.25.0
+python-dotenv==1.0.0
+
+# Data Handling
+pandas==2.1.1
+numpy==1.24.3
+
+# Imaging / OCR / PDF
+pillow==9.5.0
+pytesseract==0.3.10
+PyPDF2==3.0.1
+
+# Machine Learning
+tensorflow==2.13.0
+tensorflow-intel==2.13.0
+keras==2.13.1
+
+# Visualization
+plotly==5.18.0
+
+# Testing
+pytest==7.4.0
+
+# Serialization / Communication
+protobuf==3.20.3
+
+# Compatible Dependencies
+typing-extensions==4.5.0
+pydantic==1.10.15   # <2.0 ensures compatibility with typing-extensions 4.5.0
+
+# Optional (logging, utils, etc.)
+rich==13.9.4

@@ -1,0 +1,6 @@
+sku,drug_name,indication,age_min,contra_allergy_keywords
+OTC001,Paracetamol,fever;pain,0,paracetamol
+OTC002,Dextromethorphan,cough,2,dextromethorphan
+OTC003,ThroatLozenge,sore throat,3,
+OTC004,ORS Solution,dehydration;fever;pneumonia,0,
+OTC005,Multivitamin,weakness;pneumonia;covid_suspect,5,
