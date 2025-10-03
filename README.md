@@ -46,7 +46,7 @@ Steps:
    git branch -M main
    git push -u origin main
    ```
-Now your GitHub repo is public and can be connected to Streamlit Community Cloud.
+Now your GitHub repo is public and can be connected for deployment.
 
 ## How to capture the required "Sample run" screenshots
 1. Run the app locally with `streamlit run app.py`.
