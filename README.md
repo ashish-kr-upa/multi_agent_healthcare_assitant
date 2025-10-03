@@ -63,6 +63,12 @@ pytest -q
 ```
 They are smoke tests to verify agent hand-offs.
 
+## Public URL for this project is created on Telebit 
+- public url- https://ugly-horse-47.loca.lt/
+- password to be pasted- 152.56.146.78
+- At times there is weak connectivity in the server so the performance can be hindered so a new and updated link password will be delivered.
+
+
 ## Safety & limitations
 - The imaging component is a stub — no real medical predictions are made.
 - Do not upload real PHI. De-identification is basic and meant for demo only.
