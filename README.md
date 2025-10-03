@@ -48,6 +48,8 @@ Steps:
    ```
 Now your GitHub repo is public and can be connected for deployment.
 
+##The Demo Video LInk- https://drive.google.com/file/d/1r_WTFCBsT5kM4hti-lN_YYqiNKixJk1n/view?usp=drive_link
+
 ## How to capture the required "Sample run" screenshots
 1. Run the app locally with `streamlit run app.py`.
 2. Upload a PNG/JPG, set age/allergies, and click **Run Analysis**.
