@@ -2,11 +2,16 @@
 
 **Prominent disclaimer:** **Educational demo — NOT medical advice.** This project is strictly for demonstration and learning. Do not use for clinical decisions. For emergencies, contact local emergency services immediately.
 
+## The Demo Video Link - 
+https://drive.google.com/file/d/1r_WTFCBsT5kM4hti-lN_YYqiNKixJk1n/view?usp=drive_link
+
+
 ## What this repo contains
 - A simple multi-agent demo (Python + Streamlit) with agents: Ingestion, Imaging (stub), Therapy, Pharmacy,Doctor escalator, Orchestrator.
 - Dummy data under `/data` and a small in-memory reservation system (no persistent PHI storage).
 - De-identification step that redacts basic PII patterns (emails, long numeric IDs, phone-like sequences).
 - Unit tests under `/tests` (run with `pytest`).
+
 
 ## Quick local run (PyCharm / terminal)
 Prerequisites:
@@ -48,13 +53,11 @@ Steps:
    ```
 Now your GitHub repo is public and can be connected for deployment.
 
-##The Demo Video LInk- https://drive.google.com/file/d/1r_WTFCBsT5kM4hti-lN_YYqiNKixJk1n/view?usp=drive_link
-
 ## How to capture the required "Sample run" screenshots
 1. Run the app locally with `streamlit run app.py`.
 2. Upload a PNG/JPG, set age/allergies, and click **Run Analysis**.
 3. Capture screenshots for:
-   - Upload screen (showing uploaded files)
+   - Upload screen (showing uploaded files)(i have considered uploading the reports from google and the xray reports also can be taken from google )
    - Results screen (showing ingestion/imaging/therapy/pharmacy/order outputs)
 4. Save screenshots as `screenshots/s1.png` and `screenshots/s2.png` and include them in your slide deck.
 
