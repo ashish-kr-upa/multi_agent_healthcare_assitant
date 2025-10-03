@@ -1,4 +1,4 @@
-# Multi-Agent Healthcare Assistant — Demo (Fresher Track)
+# Multi-Agent Healthcare Assistant — Demo
 
 **Prominent disclaimer:** **Educational demo — NOT medical advice.** This project is strictly for demonstration and learning. Do not use for clinical decisions. For emergencies, contact local emergency services immediately.
 
